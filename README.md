@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **DSA and DP**
 
-- 👯 I’m looking to collaborate on [COLLABORATE](COLLABORATE)
+- 👯 I’m looking to collaborate on **AI & ML**
 
-- 🤝 I’m looking for help with [HELPWITH](HELPWITH)
+- 🤝 I’m looking for help with [Llama2](https://medium.com/@ankit941208/generating-summaries-for-large-documents-with-llama2-using-hugging-face-and-langchain-f7de567339d2)
 
 - 👨‍💻 All of my projects are available at [https://lagneshthakur.com](https://lagneshthakur.com)
 
-- 💬 Ask me about **Angular, NodeJS, C#**
+- 💬 Ask me about **Angular, ReactJS, NodeJS, C#**
 
 - 📫 How to reach me **me@lagneshthakur.com**
 
