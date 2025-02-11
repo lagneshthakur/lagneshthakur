@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lagneshthakur" alt="lagneshthakur" /></a> </p>
 
-- 🔭 I’m currently working on [Digiaccel](https://digiaccel.in/)
+- 🔭 I’m currently working on [BarcodesInc](https://www.barcodesinc.com/)
 
 - 🌱 I’m currently learning **DSA and DP**
 
