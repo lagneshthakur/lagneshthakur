@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lagneshthakur.com](https://lagneshthakur.com)
 
-- 💬 Ask me about **Angular, ReactJS, NodeJS, C#**
+- 💬 Ask me about **Angular, ReactJS, NodeJS, C#, Python**
 
 - 📫 How to reach me **me@lagneshthakur.com**
 
