@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lagnesh Thakur</h1>
-<h3 align="center">Passionate developer & problem-solver with a diversified technical skillset.</h3>
+<h3 align="center">Passionate developer & problem-solver with a diversified technical skillset.
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lagneshthakur" alt="lagneshthakur" /></a> </p>
 
